@@ -9,4 +9,9 @@ Confligt remote
 chenge in new branch
 second change in new branch
 
+
 Another Rebasing Exapmle remote
+
+
+Another Rebasing Exapmle local
+
